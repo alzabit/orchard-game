@@ -2,6 +2,12 @@ package orchardEmulate;
 
 import java.util.Random;
 
+/**
+ * 
+ * @author fga
+ * Description: dice object of six faces.
+ */
+
 public class Dice{
 	
 	public static enum    DiceFaces {RED, YELLOW, BLUE, GREEN, BASKET, RAVEN};
